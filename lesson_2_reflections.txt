@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When you initialize a repository, it begins tracking changes to files in that
+folder. You need to do this if you want to start using version control
+on a directory.
