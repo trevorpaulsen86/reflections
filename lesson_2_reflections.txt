@@ -3,3 +3,10 @@ What happens when you initialize a repository? Why do you need to do it?
 When you initialize a repository, it begins tracking changes to files in that
 folder. You need to do this if you want to start using version control
 on a directory.
+
+How is the staging area different from the working directory and the
+repository? What value do you think it offers?
+
+The staging area allows you to see what changes will be committed before doing
+the commit. It can allow the user to double-check their changes before
+committing. 
