@@ -6,3 +6,9 @@ to collaborate. Especially for really big projects it would be really inconvenie
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 A manual pull might might pull some changes before a new version is finalized. A major change may take more than one commit.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A fork is a copy of a repo made on git that links back to the original. A clone
+is done from GitHub to local or from local to local and does not link back. A
+branch is still on the original repo.
