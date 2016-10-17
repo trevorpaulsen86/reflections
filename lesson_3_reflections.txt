@@ -27,3 +27,12 @@ While there wouldn't be any commands to memorize, it would also be much harder
 to keep track of changes and much harder to avoid duplicating each other's work
 and managing versions. In general it would be *much* harder without Git or
 GitHub.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+You might want to make changes in a separate branch if the changes are
+experimental and you are not 100% sure if they will be permanent, or if they
+might break the main program. On the other hand, working directly in master
+is a lot less cumbersome and straightforward, and for basic fixes like typos
+or feature additions that are easy and you are 100% sure to add just using the
+master branch is simpler. 
