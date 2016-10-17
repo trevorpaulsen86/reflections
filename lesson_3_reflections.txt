@@ -19,3 +19,11 @@ It allows you to build off the latest version of the repo, and to avoid
 duplicating commits that already exist in the remote. Without the latest
 version, it is possible to waste time with commits that are no longer
 necessary or compatible with the latest version.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+You would probably have to use something like Google Drive for collaboration.
+While there wouldn't be any commands to memorize, it would also be much harder
+to keep track of changes and much harder to avoid duplicating each other's work
+and managing versions. In general it would be *much* harder without Git or
+GitHub.
